@@ -10,6 +10,7 @@ Add new tasks to your list.
 Mark completed tasks for a sense of accomplishment.
 Remove unwanted tasks from your list.
 Efficiently stores data in real-time using local storage (no need to refresh!).
+I have used tailwind css too
 Getting Started:
 
 Clone the repository:
